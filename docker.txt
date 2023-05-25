@@ -1,0 +1,3 @@
+node index.js
+docker build -t index.js .
+docker images
